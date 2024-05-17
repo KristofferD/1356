@@ -1,0 +1,16 @@
+version="2.10.2"
+tags={
+	"Balance"
+	"Events"
+	"Expansion"
+	"Gameplay"
+	"Historical"
+	"Map"
+	"Missions And Decisions"
+	"National Ideas"
+	"New Nations"
+	"Religion"
+}
+name="[1.35.5]1356 - A Timeline Extension Mod"
+supported_version="1.35.5"
+remote_file_id="169289951"
